@@ -1,0 +1,5 @@
+pandas
+scikit-learn==1.5.2
+pyyaml==6.0.2
+isort==5.13.2
+black==24.10.0
